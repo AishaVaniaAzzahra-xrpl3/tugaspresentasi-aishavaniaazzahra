@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(91, 0, 131);
+}
+body{
+    background-color: rgb(215, 102, 102);
+}
+.nama{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(51, 30, 210);
+}
+.panggilan{
+    color: blanchedalmond;
+}
+.tempat{
+    color: blanchedalmond;
+}
+.tanggal{
+    color: rgb(113, 0, 162);
+}
+.kelas{
+    color: blanchedalmond;
+}
+.alamat{
+    color: blanchedalmond;
+}
+.hobby{
+    color: rgb(65, 0, 126);
+}
+.cita{
+    color: blanchedalmond;
+}
+.kakak{
+    color: blanchedalmond;
+}
+.hewan{
+    color: blue;
+}
